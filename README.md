@@ -25,13 +25,13 @@ la comunicación entre la empresa y el cliente.
 
 ![](https://github.com/Quetzal345/Proyecto-Mecapp/blob/7d883d97c4da9b9f647538b1fda5b59c2ff4f3e5/Capturas/Diagrama_clases.png)
 
-# Conexion de la interfaz con la base de datos 
+# Conexión de la interfaz con la base de datos 
 
-## Configuracion de SQL
+## Configuración de SQL
 
 ![](https://github.com/Quetzal345/Proyecto-Mecapp/blob/7d883d97c4da9b9f647538b1fda5b59c2ff4f3e5/Capturas/SQL.png)
 
-## Conexion codigo
+## Conexión código 
 
 ![](https://github.com/Quetzal345/Proyecto-Mecapp/blob/7d883d97c4da9b9f647538b1fda5b59c2ff4f3e5/Capturas/Conecta1.png)
 
