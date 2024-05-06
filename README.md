@@ -15,4 +15,29 @@ la comunicación entre la empresa y el cliente.
 
 ## Modelo Relacional
 
+![](https://github.com/Quetzal345/Proyecto-Mecapp/blob/7d883d97c4da9b9f647538b1fda5b59c2ff4f3e5/Capturas/Modelo_Relacional.png)
+
+## Diccionario de Datos
+
+![](https://github.com/Quetzal345/Proyecto-Mecapp/blob/7d883d97c4da9b9f647538b1fda5b59c2ff4f3e5/Capturas/Diccionario_Datos.png)
+
+## Diagrama de Clases
+
+![](https://github.com/Quetzal345/Proyecto-Mecapp/blob/7d883d97c4da9b9f647538b1fda5b59c2ff4f3e5/Capturas/Diagrama_clases.png)
+
+# Conexion de la interfaz con la base de datos 
+
+## Configuracion de SQL
+
+![](https://github.com/Quetzal345/Proyecto-Mecapp/blob/7d883d97c4da9b9f647538b1fda5b59c2ff4f3e5/Capturas/SQL.png)
+
+## Conexion codigo
+
+![](https://github.com/Quetzal345/Proyecto-Mecapp/blob/7d883d97c4da9b9f647538b1fda5b59c2ff4f3e5/Capturas/Conecta1.png)
+
+![](https://github.com/Quetzal345/Proyecto-Mecapp/blob/7d883d97c4da9b9f647538b1fda5b59c2ff4f3e5/Capturas/Conecta2.png)
+
+## Inicio sesión
+
+![](https://github.com/Quetzal345/Proyecto-Mecapp/blob/21911dd939bafe9c415563755d9ea7943accd716/Capturas/Interfaz%20de%20inicio%20de%20sesion%20.png)
 
