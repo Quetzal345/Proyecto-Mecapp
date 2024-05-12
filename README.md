@@ -65,3 +65,9 @@ Esta es la pagina principal del usuario, antes de tener una cuenta, solo muestra
 
  ![](https://github.com/Quetzal345/Proyecto-Mecapp/blob/6bf6a6961e69683eb4498e76089cae03317f9671/Capturas/Funcion7.png)
 
+## Todas las funciones que tiene la pagina web para un usuario 
+
+- Creacion de cuenta
+- Agenda de citas
+- visualizar la ubicacion
+
