@@ -37,7 +37,31 @@ la comunicación entre la empresa y el cliente.
 
 ![](https://github.com/Quetzal345/Proyecto-Mecapp/blob/7d883d97c4da9b9f647538b1fda5b59c2ff4f3e5/Capturas/Conecta2.png)
 
-## Inicio sesión
+# Recorrido por la aplicacion web
 
-![](https://github.com/Quetzal345/Proyecto-Mecapp/blob/21911dd939bafe9c415563755d9ea7943accd716/Capturas/Interfaz%20de%20inicio%20de%20sesion%20.png)
+![](https://github.com/Quetzal345/Proyecto-Mecapp/blob/6bf6a6961e69683eb4498e76089cae03317f9671/Capturas/Funcion8.png)
+
+## Pagina principal 
+
+Esta es la pagina principal del usuario, antes de tener una cuenta, solo muestra cosas simples.
+
+ ![](https://github.com/Quetzal345/Proyecto-Mecapp/blob/6bf6a6961e69683eb4498e76089cae03317f9671/Capturas/Funcion2.png)
+
+ ## Formulario de creacion de cuenta
+
+ Una vez que el usario da click, en el apartado de usarios, lo dirige a un formulario para que crear su cuenta y desbloquear mas funciones de la aplicacion.
+
+ ![](https://github.com/Quetzal345/Proyecto-Mecapp/blob/6bf6a6961e69683eb4498e76089cae03317f9671/Capturas/Funcion3.png)
+
+ ## Citas
+
+ Una vez que el usario tiene su cuenta, accede a otro apartado donde tiene nuevas funciones, la cual es el poder agendar citas para el taller.
+
+ ![](https://github.com/Quetzal345/Proyecto-Mecapp/blob/6bf6a6961e69683eb4498e76089cae03317f9671/Capturas/Funcion5.png)
+
+ ## Ubicscion 
+
+ Tambien el usuario puede acceder a la ubicacion del taller con un simple click.
+
+ ![](https://github.com/Quetzal345/Proyecto-Mecapp/blob/6bf6a6961e69683eb4498e76089cae03317f9671/Capturas/Funcion7.png)
 
