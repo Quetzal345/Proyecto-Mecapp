@@ -71,3 +71,4 @@ Esta es la pagina principal del usuario, antes de tener una cuenta, solo muestra
 - Agenda de citas
 - visualizar la ubicacion
 
+# Interfaz grafica del Super Usuario
