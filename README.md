@@ -37,7 +37,7 @@ la comunicación entre la empresa y el cliente.
 
 ![](https://github.com/Quetzal345/Proyecto-Mecapp/blob/7d883d97c4da9b9f647538b1fda5b59c2ff4f3e5/Capturas/Conecta2.png)
 
-# Recorrido por la aplicacion web
+# Recorrido por la aplicación web
 
 ![](https://github.com/Quetzal345/Proyecto-Mecapp/blob/6bf6a6961e69683eb4498e76089cae03317f9671/Capturas/Funcion8.png)
 
@@ -47,7 +47,7 @@ Esta es la pagina principal del usuario, antes de tener una cuenta, solo muestra
 
  ![](https://github.com/Quetzal345/Proyecto-Mecapp/blob/6bf6a6961e69683eb4498e76089cae03317f9671/Capturas/Funcion2.png)
 
- ## Formulario de creacion de cuenta
+ ## Formulario de creación de cuenta
 
  Una vez que el usario da click, en el apartado de usarios, lo dirige a un formulario para que crear su cuenta y desbloquear mas funciones de la aplicacion.
 
@@ -59,7 +59,7 @@ Esta es la pagina principal del usuario, antes de tener una cuenta, solo muestra
 
  ![](https://github.com/Quetzal345/Proyecto-Mecapp/blob/6bf6a6961e69683eb4498e76089cae03317f9671/Capturas/Funcion5.png)
 
- ## Ubicscion 
+ ## Ubicación 
 
  Tambien el usuario puede acceder a la ubicacion del taller con un simple click.
 
@@ -67,13 +67,13 @@ Esta es la pagina principal del usuario, antes de tener una cuenta, solo muestra
 
 ## Todas las funciones que tiene la pagina web para un usuario 
 
-- Creacion de cuenta
+- Creación de cuenta
 - Agenda de citas
-- visualizar la ubicacion
+- visualizar la ubicación
 
 # Interfaz grafica del Super Usuario
 
-## Inicio de sesion de super usuario
+## Inicio de sesión de super usuario
 
 Como se puede observar en la imagen, este es el inicio de sesion del super usario, que ademas cuenta con 
 cloudflare.
