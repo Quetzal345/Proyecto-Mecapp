@@ -72,3 +72,41 @@ Esta es la pagina principal del usuario, antes de tener una cuenta, solo muestra
 - visualizar la ubicacion
 
 # Interfaz grafica del Super Usuario
+
+## Inicio de sesion de super usuario
+
+Como se puede observar en la imagen, este es el inicio de sesion del super usario, que ademas cuenta con 
+cloudflare.
+Cloudflare utiliza una red global de servidores distribuidos para almacenar en caché el contenido estático de un sitio web, como imágenes, videos, archivos CSS y JavaScript. Esto ayuda a acelerar la carga de las páginas web al servir el contenido desde el servidor más cercano al usuario, lo que reduce la latencia y mejora la experiencia del usuario.
+
+![](https://github.com/Quetzal345/Proyecto-Mecapp/blob/70f8157df1170eed1ee273cba08b34a711e60e7e/Capturas/Super1.png)
+
+## Pagina de inicio del super usuario 
+
+![](https://github.com/Quetzal345/Proyecto-Mecapp/blob/70f8157df1170eed1ee273cba08b34a711e60e7e/Capturas/Super2.png)
+
+## Alertas 
+
+Las alertas funcionan para mandar los correos automaticos a los usuarios que registraron citas en el taller, para que sepan que pueden recoger su auto.
+
+![](https://github.com/Quetzal345/Proyecto-Mecapp/blob/70f8157df1170eed1ee273cba08b34a711e60e7e/Capturas/Super3.png)
+
+## Citas
+
+En este apartado el super usuario puede observar todas las citas que se han realizado por parte de los usuarios.
+
+![](https://github.com/Quetzal345/Proyecto-Mecapp/blob/70f8157df1170eed1ee273cba08b34a711e60e7e/Capturas/Super4.png)
+
+## Inventario 
+
+En este apartado el super usuario puede ver todos los productos que tiene en el taller, tambien se puede eliminar productos y editarlos.
+
+![](https://github.com/Quetzal345/Proyecto-Mecapp/blob/70f8157df1170eed1ee273cba08b34a711e60e7e/Capturas/Super6.png)
+
+## Todas las funciones que tiene la pagina web Super usuario
+
+- Alertas
+- Citas 
+- Inventario
+- Agregar o eliminar super usarios
+  
