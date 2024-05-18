@@ -111,3 +111,6 @@ En este apartado el super usuario puede ver todos los productos que tiene en el 
 - Agregar o eliminar super usarios
 
 ## Backend
+
+## Mejoras para el futuro 
+
