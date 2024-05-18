@@ -121,5 +121,15 @@ En este apartado el super usuario puede ver todos los productos que tiene en el 
 
 ![](https://github.com/Quetzal345/Proyecto-Mecapp/blob/310dc18fe11ebfb097ccf18342297169513abde5/Capturas/Diagrama2.png)
 
+¿Que es un microservicio?
+
+Un microservicio es un estilo arquitectónico en el que una aplicación se estructura como una colección de servicios pequeños, independientes y autónomos. Cada microservicio se centra en una funcionalidad específica del negocio.
+
+Micro servicios en Mecapp
+
+- Servicio de Usuarios: Para gestionar el registro y autenticación de usuarios.
+- Servicio de Citas: Para gestionar la creación, modificación y cancelación de citas.
+- Servicio de Notificaciones: Para enviar recordatorios y notificaciones de citas a los usuarios.
+
 ## Mejoras para el futuro 
 
