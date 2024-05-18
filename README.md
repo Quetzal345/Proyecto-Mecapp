@@ -188,7 +188,8 @@ Kiali permite visualizar las relaciones entre servicios y el flujo de tráfico d
 
 Integrar Istio en MecApp transformará significativamente la forma en que gestionas y operas tu aplicación. Mejorarás la seguridad, la observabilidad, la resiliencia y la eficiencia de la aplicación, lo que se traducirá en una mejor experiencia tanto para los clientes como para los trabajadores del taller. Además, la capacidad de gestionar despliegues y actualizaciones de manera segura y sin interrupciones permitirá a tu equipo de desarrollo entregar nuevas funcionalidades y mejoras con mayor confianza y velocidad.
 
-
+## Proyecto ralizado por Pluton software
+  
 # Probar Mecapp
 
 https://mecappcar.000webhostapp.com/
