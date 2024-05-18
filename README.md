@@ -155,6 +155,7 @@ Copia los archivos de la aplicación PHP al directorio donde Apache los puede se
 Establece /var/www/html/ como el directorio de trabajo dentro del contenedor.
 Expone el puerto 80 para que la aplicación web pueda ser accedida desde fuera del contenedor.
 
+## Automatización de las alertas a los clientes 
 
 https://github.com/Quetzal345/Proyecto-Mecapp/assets/157257015/a447256f-5dc5-40e5-8a8a-d841c1f5f7e2
 
