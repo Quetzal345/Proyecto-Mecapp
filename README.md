@@ -176,6 +176,7 @@ Istio proporciona autenticación mutua TLS (mTLS) entre servicios para asegurar 
 Implementa políticas de autorización para controlar qué servicios pueden comunicarse entre sí, mejorando la seguridad de la aplicación.
 Encriptación del Tráfico:
 Todo el tráfico entre servicios puede estar encriptado, asegurando que los datos transmitidos estén protegidos contra ataques de interceptación.
+
 - Observabilidad
 Monitoreo y Telemetría:
 
@@ -185,21 +186,9 @@ Kiali para la Visualización de la Malla:
 
 Kiali permite visualizar las relaciones entre servicios y el flujo de tráfico dentro de la malla de servicios, proporcionando una visión clara de la arquitectura y los posibles puntos de fallo.
 
-Permite realizar pruebas de resiliencia mediante la inyección de fallos, como la latencia artificial o la interrupción de servicios, para verificar cómo se comporta la aplicación bajo condiciones adversas.
-- Despliegue y Actualización de Servicios
-Despliegues Canarios y Blue/Green:
-Facilita la implementación de estrategias de despliegue como canary releases y blue/green deployments, minimizando el riesgo de interrupciones durante la actualización de servicios.
-Rollouts Graduales:
-Permite realizar rollouts graduales de nuevas versiones de servicios, monitoreando el rendimiento y retrocediendo en caso de problemas.
-- Simplificación de la Gestión de Servicios
-Configuración Centralizada:
-
-Proporciona una capa de abstracción que centraliza la configuración de políticas de red, seguridad y observabilidad, simplificando la gestión y reduciendo la complejidad operativa.
-Facilidad para Implementar Microservicios:
-
-Facilita la adopción de una arquitectura de microservicios, permitiendo una mejor modularidad y escalabilidad de la aplicación.
-
 Integrar Istio en MecApp transformará significativamente la forma en que gestionas y operas tu aplicación. Mejorarás la seguridad, la observabilidad, la resiliencia y la eficiencia de la aplicación, lo que se traducirá en una mejor experiencia tanto para los clientes como para los trabajadores del taller. Además, la capacidad de gestionar despliegues y actualizaciones de manera segura y sin interrupciones permitirá a tu equipo de desarrollo entregar nuevas funcionalidades y mejoras con mayor confianza y velocidad.
 
 
+# Probar Mecapp
 
+https://mecappcar.000webhostapp.com/
