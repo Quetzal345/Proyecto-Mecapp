@@ -112,5 +112,14 @@ En este apartado el super usuario puede ver todos los productos que tiene en el 
 
 ## Backend
 
+## Diagrama de componentes
+
+![](https://github.com/Quetzal345/Proyecto-Mecapp/blob/310dc18fe11ebfb097ccf18342297169513abde5/Capturas/Diagrama1.png)
+
+
+## Diagrama de despliegue 
+
+![](https://github.com/Quetzal345/Proyecto-Mecapp/blob/310dc18fe11ebfb097ccf18342297169513abde5/Capturas/Diagrama2.png)
+
 ## Mejoras para el futuro 
 
