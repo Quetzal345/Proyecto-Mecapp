@@ -131,5 +131,28 @@ Micro servicios en Mecapp
 - Servicio de Citas: Para gestionar la creación, modificación y cancelación de citas.
 - Servicio de Notificaciones: Para enviar recordatorios y notificaciones de citas a los usuarios.
 
+~~~
+# Use the official PHP image
+FROM php:8.1-apache
+
+# Install required PHP extensions
+RUN docker-php-ext-install pdo pdo_mysql
+
+# Copy application files
+COPY . /var/www/html/
+
+# Set working directory
+WORKDIR /var/www/html/
+
+# Expose port 80
+EXPOSE 80
+
+~~~
+
+Usa la imagen base php:8.1-apache, que ya tiene PHP 8.1 y Apache instalados.
+Instala las extensiones pdo y pdo_mysql necesarias para que PHP pueda interactuar con bases de datos MySQL.
+Copia los archivos de la aplicación PHP al directorio donde Apache los puede servir (/var/www/html/).
+Establece /var/www/html/ como el directorio de trabajo dentro del contenedor.
+Expone el puerto 80 para que la aplicación web pueda ser accedida desde fuera del contenedor.
 ## Mejoras para el futuro 
 
