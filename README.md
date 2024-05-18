@@ -154,5 +154,8 @@ Instala las extensiones pdo y pdo_mysql necesarias para que PHP pueda interactua
 Copia los archivos de la aplicación PHP al directorio donde Apache los puede servir (/var/www/html/).
 Establece /var/www/html/ como el directorio de trabajo dentro del contenedor.
 Expone el puerto 80 para que la aplicación web pueda ser accedida desde fuera del contenedor.
+
+![](https://github.com/Quetzal345/Proyecto-Mecapp/blob/5e67a3dc5a32846a5a0271abd81836264df190cf/Capturas/V%C3%ADdeo%20sin%20t%C3%ADtulo%20%E2%80%90%20Hecho%20con%20Clipchamp.mp4)
+
 ## Mejoras para el futuro 
 
