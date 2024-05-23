@@ -110,83 +110,12 @@ En este apartado el super usuario puede ver todos los productos que tiene en el 
 - Inventario
 - Agregar o eliminar super usarios
 
-## Backend
 
-## Diagrama de componentes
-
-![](https://github.com/Quetzal345/Proyecto-Mecapp/blob/310dc18fe11ebfb097ccf18342297169513abde5/Capturas/Diagrama1.png)
-
-
-## Diagrama de despliegue 
-
-![](https://github.com/Quetzal345/Proyecto-Mecapp/blob/310dc18fe11ebfb097ccf18342297169513abde5/Capturas/Diagrama2.png)
-
-¿Que es un microservicio?
-
-Un microservicio es un estilo arquitectónico en el que una aplicación se estructura como una colección de servicios pequeños, independientes y autónomos. Cada microservicio se centra en una funcionalidad específica del negocio.
-
-Micro servicios en Mecapp
-
-- Servicio de Usuarios: Para gestionar el registro y autenticación de usuarios.
-- Servicio de Citas: Para gestionar la creación, modificación y cancelación de citas.
-- Servicio de Notificaciones: Para enviar recordatorios y notificaciones de citas a los usuarios.
-
-~~~
-# Use the official PHP image
-FROM php:8.1-apache
-
-# Install required PHP extensions
-RUN docker-php-ext-install pdo pdo_mysql
-
-# Copy application files
-COPY . /var/www/html/
-
-# Set working directory
-WORKDIR /var/www/html/
-
-# Expose port 80
-EXPOSE 80
-
-~~~
-
-Usa la imagen base php:8.1-apache, que ya tiene PHP 8.1 y Apache instalados.
-Instala las extensiones pdo y pdo_mysql necesarias para que PHP pueda interactuar con bases de datos MySQL.
-Copia los archivos de la aplicación PHP al directorio donde Apache los puede servir (/var/www/html/).
-Establece /var/www/html/ como el directorio de trabajo dentro del contenedor.
-Expone el puerto 80 para que la aplicación web pueda ser accedida desde fuera del contenedor.
 
 ## Automatización de las alertas a los clientes 
 
 https://github.com/Quetzal345/Proyecto-Mecapp/assets/157257015/a447256f-5dc5-40e5-8a8a-d841c1f5f7e2
 
-
-
-
-## Mejoras para el futuro 
-
-- Implementación de IA y Machine Learning: Utilizar tecnologías de inteligencia artificial y aprendizaje automático para predecir problemas comunes en los vehículos basados en el historial de servicios y patrones de uso. Esto puede ayudar a los clientes a evitar problemas mayores y mejorar la eficiencia del taller.
-- Optimización del Inventario: Integrar herramientas de análisis de inventario y predicción de demanda para ayudar a los administradores del taller a gestionar mejor el stock de piezas y materiales. Esto puede incluir alertas automáticas cuando el inventario esté bajo y recomendaciones para reordenar productos.
-- Sistema de Evaluación y Feedback: Añadir un sistema de evaluación y comentarios para que los clientes puedan dejar feedback sobre los servicios recibidos. Esto ayudará al taller a mejorar la calidad de sus servicios y a entender mejor las necesidades y expectativas de sus clientes.
-
-## Como mejoraria Mecapp con Istio
-- Seguridad
-Autenticación y Autorización:
-
-Istio proporciona autenticación mutua TLS (mTLS) entre servicios para asegurar la comunicación interna.
-Implementa políticas de autorización para controlar qué servicios pueden comunicarse entre sí, mejorando la seguridad de la aplicación.
-Encriptación del Tráfico:
-Todo el tráfico entre servicios puede estar encriptado, asegurando que los datos transmitidos estén protegidos contra ataques de interceptación.
-
-- Observabilidad
-Monitoreo y Telemetría:
-
-Istio recopila métricas detalladas, logs y trazas distribuidas de los servicios en la malla, lo que facilita la supervisión del rendimiento y la detección de problemas.
-Integraciones con Prometheus, Grafana y Jaeger proporcionan visualizaciones y análisis avanzados del comportamiento de la aplicación.
-Kiali para la Visualización de la Malla:
-
-Kiali permite visualizar las relaciones entre servicios y el flujo de tráfico dentro de la malla de servicios, proporcionando una visión clara de la arquitectura y los posibles puntos de fallo.
-
-Integrar Istio en MecApp transformará significativamente la forma en que gestionas y operas tu aplicación. Mejorarás la seguridad, la observabilidad, la resiliencia y la eficiencia de la aplicación, lo que se traducirá en una mejor experiencia tanto para los clientes como para los trabajadores del taller. Además, la capacidad de gestionar despliegues y actualizaciones de manera segura y sin interrupciones permitirá a tu equipo de desarrollo entregar nuevas funcionalidades y mejoras con mayor confianza y velocidad.
 
 ## Proyecto ralizado por Pluton software
   
